@@ -1,6 +1,6 @@
-<img width="276" height="80" alt="Untitled" src="https://github.com/user-attachments/assets/04ce6cd9-4ded-428a-bac0-d2ff346e69a0" />
+<img width="700" height="202" alt="Untitled" src="https://github.com/user-attachments/assets/04ce6cd9-4ded-428a-bac0-d2ff346e69a0" />
 
-# hi, i'm ruri 🌸
+# hi, i'm ruri ˚˖𓍢ִ໋❀
 
 ⚙️ computer engineering && business student
 
