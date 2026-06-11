@@ -1,7 +1,4 @@
-<img width="600" height="194" alt="image" src="https://github.com/user-attachments/assets/ec2c44f0-fed5-4a30-85d2-c491868c9fd4" />
-
-<img width="540" height="716" alt="image" src="https://github.com/user-attachments/assets/ae0c245c-b8d9-42fb-9d70-cca2f0dfeea4" />
-
+<img width="276" height="80" alt="Untitled" src="https://github.com/user-attachments/assets/04ce6cd9-4ded-428a-bac0-d2ff346e69a0" />
 
 # hi, i'm ruri 🌸
 
