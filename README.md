@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/651f86ec-0a18-46b9-a137-d38afba9d7d4" />
+<img src="banner.svg" />
 
 # hi, i'm ruri ˚˖𓍢ִ໋❀
 
