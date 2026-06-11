@@ -1,4 +1,4 @@
-<img src="banner.svg" />
+<img height="1000px" src="banner.svg" />
 
 # hi, i'm ruri ˚˖𓍢ִ໋❀
 
