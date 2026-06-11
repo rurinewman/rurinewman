@@ -1,4 +1,6 @@
-<img height="1300px" src="banner.svg" />
+<p align="center">
+  <img src="banner.svg" alt="ruri-banner" />
+</p>
 
 # hi, i'm ruri ˚˖𓍢ִ໋❀
 
@@ -12,5 +14,5 @@
 
 | project | description |
 |----------|------------|
-| BodyMap Diagnosis | AI-assisted symptom checker |
-| TP Attendance App | Smart attendance system |
+| ifeelsickandidontknowwhy.com | AI-assisted-RAG symptom checker |
+| TP Attendance App | Smart attendance system for fieldwork interns |
