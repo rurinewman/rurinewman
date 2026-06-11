@@ -1,3 +1,1 @@
-# rurifloranewman
-
-<img width="161" height="52" alt="image" src="https://github.com/user-attachments/assets/15f5895d-2438-4158-a273-923f7ac2fe24" />
+<img width="561" height="552" alt="image" src="https://github.com/user-attachments/assets/ec2c44f0-fed5-4a30-85d2-c491868c9fd4" />
