@@ -1,4 +1,4 @@
-<img width="750" height="216" alt="image" src="https://github.com/user-attachments/assets/e9cf6f92-76f7-4d50-a190-a6eb88f3414e" />
+<img width="1000" height="289" alt="Untitled Design Canva" src="https://github.com/user-attachments/assets/50d948b2-1fc3-4a82-882e-7751cdbb462c" />
 
 # hi, i'm ruri ˚˖𓍢ִ໋❀
 
