@@ -6,7 +6,7 @@
 
 ⚙️ computer engineering && business student
 
-🧬 building health && early education tech apps
+🧬 building health ++ early education tech apps
 
 🇯🇵🇲🇲 japanese-burmese in singapore
 
